@@ -31,3 +31,7 @@ C:\Users\octav\OneDrive\Escritorio\Grado\Practicas\Server\ServerApi\obj\Debug\ne
 C:\Users\octav\OneDrive\Escritorio\Grado\Practicas\Server\ServerApi\obj\Debug\net7.0\ServerApi.pdb
 C:\Users\octav\OneDrive\Escritorio\Grado\Practicas\Server\ServerApi\obj\Debug\net7.0\ServerApi.genruntimeconfig.cache
 C:\Users\octav\OneDrive\Escritorio\Grado\Practicas\Server\ServerApi\obj\Debug\net7.0\ref\ServerApi.dll
+C:\Users\octav\OneDrive\Escritorio\Grado\Practicas\Server\ServerApi\bin\Debug\net7.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\octav\OneDrive\Escritorio\Grado\Practicas\Server\ServerApi\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\octav\OneDrive\Escritorio\Grado\Practicas\Server\ServerApi\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\octav\OneDrive\Escritorio\Grado\Practicas\Server\ServerApi\bin\Debug\net7.0\Newtonsoft.Json.Bson.dll
